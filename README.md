@@ -1,5 +1,7 @@
 # Social-Media-Sentiment-Analysis
 
+ABnalysis is done on tweets dataset collected in csv format and converted in pandas dataframe for furthere working
+
 STEPS
 
 **Data Exploration and Preprocessing:** The code begins by importing necessary libraries and loading the training and testing datasets. It conducts initial data exploration by displaying the shape and first few rows of the training data, checking for missing values, and visualizing aspects such as word length distribution and label counts. Text preprocessing functions are defined to clean and process the tweet text by removing special characters, converting to lowercase, and tokenizing.
